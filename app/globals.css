@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: #F7F4EF;
+  color: #111111;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.section-title {
+  font-size: 12px;
+  letter-spacing: 0.4em;
+  text-transform: uppercase;
+}
